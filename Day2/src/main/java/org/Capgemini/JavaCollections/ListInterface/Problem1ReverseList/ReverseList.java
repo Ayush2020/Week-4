@@ -16,7 +16,7 @@ public class ReverseList {
             T temp = list.get(start);        // Store the element at the start index in a temporary variable
             list.set(start, list.get(end));  // Replace the start element with the end element
             list.set(end, temp);            // Replace the end element with the temporary variable (original start element)
-
+            
             // Move the pointers toward the center
             start++;                        // Increment the start pointer
             end--;                          // Decrement the end pointer
