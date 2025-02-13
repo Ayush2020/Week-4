@@ -7,7 +7,7 @@ import java.util.Map;
 public class WordFrequencyCounter {
     public static void main(String[] args) {
         // Path to the input file
-        String filePath = "D:/IntelliC/Week4/Day2/src/main/hello.txt";
+        String filePath = "D:/IntelliC/Week4/Day2/src/main/java/org/Capgemini/JavaCollections/MapInterface/Problem1WordFrequencyCounter/hello.txt";
 
         // Create a HashMap to store word frequencies
         Map<String, Integer> wordFrequencyMap = new HashMap<>();
@@ -16,7 +16,7 @@ public class WordFrequencyCounter {
         try {
             // Create a BufferedReader to read the file
             BufferedReader reader = new BufferedReader(new FileReader(filePath));
-            String line; 
+            String line;
 
             // Read each line of the file
             while ((line = reader.readLine()) != null) {
