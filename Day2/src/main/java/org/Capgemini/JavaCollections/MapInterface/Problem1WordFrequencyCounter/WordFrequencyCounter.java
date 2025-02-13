@@ -16,7 +16,7 @@ public class WordFrequencyCounter {
         try {
             // Create a BufferedReader to read the file
             BufferedReader reader = new BufferedReader(new FileReader(filePath));
-            String line;
+            String line; 
 
             // Read each line of the file
             while ((line = reader.readLine()) != null) {
