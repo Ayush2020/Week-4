@@ -79,14 +79,5 @@ public class StackUsingQueue {
 
         // Perform pop operation and print the result (should return 3)
         System.out.println(stack.pop());  // Output: 3
-
-        // Perform top operation and print the result (should return 2)
-        System.out.println(stack.top());  // Output: 2
-
-        // Perform another pop operation and print the result (should return 2)
-        System.out.println(stack.pop());  // Output: 2
-
-        // Check if the stack is empty and print the result (should return false)
-        System.out.println(stack.empty());  // Output: false
     }
 }
