@@ -12,7 +12,7 @@ public class ReadAndWriteTextFile {
         // Create FileInputStream and FileOutputStream objects
         FileInputStream fis = null;
         FileOutputStream fos = null;
-        
+
 
         try {
             // Initialize FileInputStream to read the source file
