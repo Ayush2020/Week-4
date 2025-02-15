@@ -12,6 +12,7 @@ public class CreditCardValidator {
         if (!cardNumber.matches("\\d+")) {
             return false;
         }
+        
 
         // Validate Visa (starts with 4) or MasterCard (starts with 5)
         if ((cardNumber.startsWith("4") && cardNumber.length() == 16) ||
