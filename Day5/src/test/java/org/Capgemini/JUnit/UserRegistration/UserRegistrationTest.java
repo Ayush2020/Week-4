@@ -62,5 +62,5 @@ public class UserRegistrationTest {
         assertThrows(IllegalArgumentException.class, () -> userRegistration.registerUser(validUsername, nullEmail, validPassword));
     }
 
-    
+
 }
