@@ -38,6 +38,7 @@ public class ClassInformation {
                 System.out.println(" - " + method.getName() + " (Return Type: " + method.getReturnType() + ", Parameters: " + method.getParameterCount() + ")");
             }
 
+            
         } catch (ClassNotFoundException e) {
             System.out.println("Class not found: " + e.getMessage());
         }
