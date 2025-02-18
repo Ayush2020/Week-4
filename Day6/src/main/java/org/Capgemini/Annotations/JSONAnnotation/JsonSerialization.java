@@ -49,7 +49,7 @@ class User {
 // Main class to convert object to JSON using reflection
 public class JsonSerialization {
 
-    
+
     // Method to convert object to JSON string
     public static String toJson(Object obj) throws IllegalAccessException {
         StringBuilder json = new StringBuilder("{");
