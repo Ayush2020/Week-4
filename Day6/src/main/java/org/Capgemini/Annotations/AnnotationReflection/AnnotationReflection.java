@@ -33,6 +33,7 @@ public class AnnotationReflection {
         }
     }
 
+
     // Main method to reflect and print annotated methods
     public static void main(String[] args) throws Exception {
         Class<?> clazz = ExampleClass.class;
