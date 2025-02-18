@@ -8,6 +8,7 @@ import java.lang.reflect.Method;
 
 public class LogExecutionTimeExample {
 
+
     // Define the @LogExecutionTime annotation
     @Target(ElementType.METHOD) // Can be applied to methods
     @Retention(RetentionPolicy.RUNTIME) // Retained at runtime for reflection
