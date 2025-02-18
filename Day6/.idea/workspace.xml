@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da5cd174-4bf3-4331-94b3-1a3db0cbd554" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Capgemini/Annotations/RoleAllowedAnnotation/AccessControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Capgemini/Annotations/RoleAllowedAnnotation/AccessControl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2t7PRXhBLDUb2lN8A0PVyDG7a0h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AccessControl.executor": "Run",
+    "Application.AccessPrivateFields.executor": "Run",
+    "Application.AnnotationReflection.executor": "Run",
+    "Application.Book.executor": "Run",
+    "Application.ClassInformation.executor": "Run",
+    "Application.Create.executor": "Run",
+    "Application.CustomCache.executor": "Run",
+    "Application.CustomObjectMapper.executor": "Run",
+    "Application.DiContainer.executor": "Run",
+    "Application.DynamicMethodInvocation.executor": "Run",
+    "Application.DynamicObject.executor": "Run",
+    "Application.ExecutionTime.executor": "Run",
+    "Application.InvokePrivateMethod.executor": "Run",
+    "Application.JsonSerialization.executor": "Run",
+    "Application.LogExecutionTime.executor": "Run",
+    "Application.LogExecutionTimeExample.executor": "Run",
+    "Application.ObjectToJson.executor": "Run",
+    "Application.ProxyExample.executor": "Run",
+    "Application.ReflectionExample.executor": "Run",
+    "Application.SimpleDIContainer.executor": "Run",
+    "Application.TodoAnnotation.executor": "Run",
+    "Application.User.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Day6",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/IntelliC/Week4/Day6/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.Capgemini.Reflections.SimpleDIContainer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ReflectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Capgemini.Reflections.DynamicObject.ReflectionExample" />
+      <module name="Day6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Capgemini.Reflections.DynamicObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReflectionExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da5cd174-4bf3-4331-94b3-1a3db0cbd554" name="Changes" comment="" />
+      <created>1739700135532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739700135532</updated>
+    </task>
+    <servers />
+  </component>
+</project>
