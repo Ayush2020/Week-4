@@ -14,6 +14,7 @@ import java.util.Map;
 @interface CacheResult {
 }
 
+
 // Custom Cache class to store method results
 class Cache {
     private final Map<String, Object> cache = new HashMap<>();
